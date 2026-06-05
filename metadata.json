@@ -1,0 +1,5 @@
+{
+  "name": "PixelGenie",
+  "description": "AI-powered Pixel Art Generator and Editor. Create 16x16 to 128x128 pixel art from prompts or images.",
+  "requestFramePermissions": []
+}
